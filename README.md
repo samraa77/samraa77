@@ -5,7 +5,7 @@
      instagram :  https://www.instagram.com/elhassanisamira1/
      facebook : https://www.facebook.com/profile.php?id=100074403828318
      linkdin : https://www.linkedin.com/in/samira-el-hassani4b3962286/
-     gmail : samiirahassani11@gmail.com
+     gmail : samiirahassanii11@gmail.com
 
 <!---
 samraa77/samraa77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
